@@ -125,15 +125,6 @@ streamlit run app.py
 
 ---
 
-## 👨‍💻 Authors
-
-**Suryansh Desai (PRN-1032240037)**  
-**Pranav Sawant (PRN-1032240050)**  
-**Chinmay Narule (PRN-1032240046)**  
-**Manasi Bagal (PRN-1262243457)**  
-
----
-
 ## 🏁 License
 
 This project is open-source and available under the **MIT License**.
